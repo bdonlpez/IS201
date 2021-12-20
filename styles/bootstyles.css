@@ -1,0 +1,38 @@
+.caption{
+    font-weight: bold;
+    font-size: larger;
+}
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 3;
+    border-bottom: solid 1px #555555;
+    position: absolute;
+}
+.footer{
+    bottom: 30px;
+    left: 5px;
+    right: 5px;
+    height: 10px;
+    font-size: 14px;
+    color: #555555;
+    text-align: center;
+    position: fixed;
+}
+.center{
+text-align: center;
+font-weight: bold;
+font-size: 35;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.right{
+    text-align: right;
+    padding-right: 20px;
+}
+
+.tabback{
+    background-color: lightgray;
+}

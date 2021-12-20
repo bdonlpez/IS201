@@ -1,0 +1,59 @@
+.bold{
+    font-weight: bold;
+}
+.background{
+    background-color: lightgray;
+}
+.bigbold{
+    font-weight: bold;
+    font-size: xx-large;
+}
+.normal{
+    font-weight: normal;
+    font-size: xx-large;
+}
+.underlink{
+    text-decoration: underline;
+}
+p{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.leftmenu{
+    top: 50px;
+    left: 15px;
+    bottom: 64px;
+    padding-top: 17px;
+    position: absolute;
+    z-index: 1;
+}
+.textcolor{
+    color: black;
+}
+
+.pics1{
+    padding-left: 200px;
+}
+.pics2{
+    padding-left: 125px;
+}
+.pics3{
+    padding-left: 85px;
+}
+
+.pics4{
+    padding-left: 10px;
+}
+
+.ctact{
+    font-weight: bold;
+    font-size: large;
+    text-decoration: none;
+}
+
+.ctactcolor{
+    color: ghostwhite;
+}
+
+.ctactother{
+    color: whitesmoke;
+}
